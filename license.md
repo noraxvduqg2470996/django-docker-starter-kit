@@ -32,7 +32,7 @@
     </td>
     <td style="padding: 10px;">
       <img width="320" height="280" alt="deepseek_svg_20260509_d7e455" src="https://github.com/user-attachments/assets/a9f648dd-34cc-4ba4-ae48-ecc01cccd37d" />
-    </tr>
+    </td>
     <td style="padding: 10px;">
       <img width="320" height="280" alt="deepseek_svg_20260509_8bce5c" src="https://github.com/user-attachments/assets/e325f063-dee2-45f8-ac50-14b2a5888d6a" />
     </td>
