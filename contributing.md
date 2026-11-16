@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Django Docker Starter Kit](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/django-docker-starter-kit)
+[![Download Django Docker Starter Kit](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/Wp27Eo3T7A2c0i58b)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Download Django Docker Starter Kit](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/django-docker-starter-kit)
+[![Download Django Docker Starter Kit](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/Wp27Eo3T7A2c0i58b)
 
 </div>
 
@@ -172,7 +172,7 @@ Deploy Django in production with Docker for free. **Django Docker Starter Kit â€
 
 <div align="center">
 
-[![Download Django Docker Starter Kit](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/django-docker-starter-kit)
+[![Download Django Docker Starter Kit](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/Wp27Eo3T7A2c0i58b)
 
 **Version 3.1.0** â€” Free Docker starter kit for Django. May 2026 update. Zero cost. No payment.
 
